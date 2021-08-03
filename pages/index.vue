@@ -1,5 +1,6 @@
+
 <template>
-  <p>testあああああああああああああああ</p>
+  <div>aaaaaaaaa</div>
 </template>
 
 <script>
